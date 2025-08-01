@@ -1,7 +1,0 @@
-{
-  "root_path": "s3a://name/",
-  "landing_zone": "landing_zone/",
-  "bronze_zone": "bronze/",
-  "silver_zone": "silver/",
-  "gold_zone": "gold/"
-}
